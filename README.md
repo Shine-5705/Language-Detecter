@@ -35,7 +35,7 @@ Usage:
 
     bash
 
-git clone https://github.com/your_username/language-detection.git
+git clone https://github.com/Shine-5705/Language-Detecter.git
 cd language-detection
 
 Install Dependencies:
