@@ -1,6 +1,0 @@
-Python 3.11.7
-langdetect
-scikit-learn
-tensorflow
-keras
-streamlit
